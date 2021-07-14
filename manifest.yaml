@@ -1,0 +1,12 @@
+---
+applications:
+
+
+ - name: AGD
+   random-route: true
+   memory: 512M
+   disk_quota: 1.5G
+   buildpacks:
+   - python_buildpack
+   command: python AG.py
+  
