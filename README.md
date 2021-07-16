@@ -5,3 +5,5 @@ facial detection, age and gender. The prediction will result on a real-time basi
 
 
 ![block_diagram](https://user-images.githubusercontent.com/69404495/125663865-0053d02a-052c-4e46-9366-c453201a8473.png)
+
+Documentation :- https://workdrive.zohoexternal.com/writer/open/40wysbea8b06776d1415db6f28e3236d497f5?authId=%7B%22linkId%22%3A%225k2wAp9UIO0-LYmlU%22%7D
